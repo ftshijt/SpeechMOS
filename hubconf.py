@@ -4,7 +4,7 @@ dependencies = ["torch", "torchaudio"]
 
 import torch                                             # pylint: disable=wrong-import-position
 
-from speechmos.utmos22.strong.model import UTMOS22Strong # pylint: disable=wrong-import-position
+from speechmos_ut.utmos22.strong.model import UTMOS22Strong # pylint: disable=wrong-import-position
 
 
 URLS = {
